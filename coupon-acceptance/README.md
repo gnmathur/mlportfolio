@@ -62,7 +62,7 @@ The findings are described next.
 * Acceptance rate for those who go to a bar more than 3 times a month is significantly high at ~77%. This is prime category for targetting the coupon
 * Drivers who go to a bar more than once a month and are over the age of 25 have an acceptance rate of ~77%
 * Drivers drivers who go to bars more than once a month, and had passengers that were not a kid and had occupations other than farming, fishing, or forestry have a significantly higher rate of acceptance, than other bar goers. Some of it is easy to understand as someone who goes to bars often, and has no obligations of kids would have more opportunity to visit bars, and therefore would be more likely to accept coupons. The correlation with the occupation is a little hard to read though.
-* Based on the analysis that we did. We can analyze the effectiveness of drivers accepting bar coupons based on different characteristics.
+* Based on the analysis that we did. We can analyze the effectiveness of drivers accepting bar coupons based on different characteristics as below:
 
 __Age and Marital Status__: Younger individuals or those listed as single may have a higher likelihood of accepting bar coupons, reflecting a potentially more active social life.
 
@@ -71,7 +71,6 @@ __Passenger Presence__: Drivers who are not alone, especially those with friends
 __Frequency of Visiting Bars__: Individuals who already frequent bars are likely to accept more bar coupons. This seems like an obvious conclusion as the more you visit bars, the more you would prefer to avail of discounts.
 
 __Impact of Occupation__: The analysis that required _including_ `Farming Fishing & Forestry` occupation was interesting because it showed a very low acceptance rate. Even though it was coupled with a couple of other criterion (viz. `Passanger` type and `Bar` visit frequency), it suggests that people working in these occupations that are remote are less likely to avail of these discounts. Its perhaps in the nature of these occupations that does not allow people more opportunity to visit bars in the first place, so the prospect of discounts might not be that interesting to them.
-
 
 ### Coffee House Coupons
 
