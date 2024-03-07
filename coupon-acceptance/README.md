@@ -34,12 +34,10 @@ The dataset contains multiple attributes, including:
 * Passenger: alone, partner, kid(s), or friend(s)
 
 ## Coupon attributes
-
-Each entry represents a user's response to a coupon offer, capturing both the
-offer's context and the user's decision to accept or reject it.
+* Time before it expires: 2 hours or one day
 
 
-The dataset is included in the file `data/coupons.csv`
+Each entry represents a user's response to a coupon offer, capturing both the offer's context and the user's decision to accept or reject it. The dataset is included in the file `data/coupons.csv`
 
 ## Objectives
 
